@@ -1,2 +1,0 @@
-# SoleWave
-Shoe Hub
